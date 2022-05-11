@@ -1,0 +1,7 @@
+{
+  "name": "DHBW_WetterApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
